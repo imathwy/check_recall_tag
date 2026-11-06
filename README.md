@@ -64,3 +64,7 @@ lake build Tests.CommandCrossRefImportTest
 
 公共 API 入口是 [StacksCheckRecall.lean](StacksCheckRecall.lean)，实现位于
 [StacksCheckRecall/CommandCrossRef.lean](StacksCheckRecall/CommandCrossRef.lean)。
+
+## 许可证
+
+本项目采用 [Apache License 2.0](LICENSE)。
